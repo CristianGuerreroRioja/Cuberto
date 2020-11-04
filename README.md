@@ -1,2 +1,1 @@
 # Cuberto
-tus muertof
