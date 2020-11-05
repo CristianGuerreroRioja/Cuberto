@@ -30,6 +30,18 @@ body {
     font-size: 30px;
 }
 
+#section-1 {
+    background-color: #F5EEF5;
+}
+
+#section-2 {
+    background-color: #FAF5F3;
+}
+
+#section-3 {
+    background-color: #F2F9F8;
+}
+
 .one-column {
     padding: 7%;
 }
@@ -64,7 +76,7 @@ body {
 }
 
 #section-4 {
-    background-color: black;
+    background-color: #000000;
     color: white;
 }
 
